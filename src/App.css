@@ -7,6 +7,15 @@
   pointer-events: none;
 }
 
+.Socials{
+  align-items: center;
+  padding-top: 10pt;
+}
+
+.Twitter{
+  padding-left: 15pt;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
